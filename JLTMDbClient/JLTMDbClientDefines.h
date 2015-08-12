@@ -41,6 +41,7 @@ static NSString * const kJLTMDbMovieImages = @"movie/{id}/images";
 static NSString * const kJLTMDbMovieKeywords = @"movie/{id}/keywords";
 static NSString * const kJLTMDbMovieReleases = @"movie/{id}/releases";
 static NSString * const kJLTMDbMovieTrailers = @"movie/{id}/trailers";
+static NSString * const kJLTMDbMovieVideos = @"movie/{id}/videos";
 static NSString * const kJLTMDbMovieTranslations = @"movie/{id}/translations";
 static NSString * const kJLTMDbMovieSimilar = @"movie/{id}/similar_movies";
 static NSString * const kJLTMDbMovieReviews = @"movie/{id}/reviews";
